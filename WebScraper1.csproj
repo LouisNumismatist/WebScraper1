@@ -46,9 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HTMLHandler.cs" />
-    <Compile Include="Problem.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Infrastructure\HTMLHandler.cs" />
+    <Compile Include="Infrastructure\Problem.cs" />
+    <Compile Include="Infrastructure\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
